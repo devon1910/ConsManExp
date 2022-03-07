@@ -1,0 +1,12 @@
+SMAP
+inReg_jsp.java
+JSP
+*S JSP
+*F
++ 0 inReg.jsp
+inReg.jsp
+*L
+5,15:48
+20,24:64
+43,4:88
+*E
